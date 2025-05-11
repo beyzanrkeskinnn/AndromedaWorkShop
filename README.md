@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Digital Art Gallery Project (Andromeda)
+
+This project is a digital art gallery platform created with [Andromeda](https://www.andromedaprotocol.io/). Currently, a simple collection has been created where artists can showcase their NFT artworks, and the marketplace section will be developed soon.
 
 ## Getting Started
 
