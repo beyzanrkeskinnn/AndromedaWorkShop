@@ -1,12 +1,25 @@
-## Digital Art Gallery Project (Andromeda)
+# Digital Art Gallery Project (Andromeda)
 
-This project is a digital art gallery platform created with [Andromeda](https://www.andromedaprotocol.io/). Currently, a simple collection has been created where artists can showcase their NFT artworks, and the marketplace section will be developed soon.
+This project is a digital platform where artists can showcase their NFT artworks using Web3 and blockchain technologies. It is developed with the [Andromeda](https://www.andromedaprotocol.io/). protocol, and with the soon-to-be-integrated marketplace feature, it will also allow artists to sell their creations.
+## Key Features
+- **Digital Art Showcase**: A digital platform where artists can showcase their NFT artworks.  
+- **Web3 & Blockchain Technology**: Developed using Web3 and blockchain technologies for decentralization and security.  
+- **Built on Andromeda Protocol**: The project is built on the **Andromeda Protocol** infrastructure.  
+- **Digital Ownership with Smart Contracts**: Digital ownership is secured through smart contracts.  
+- **Wallet Integration**: Users can connect their wallets to view and interact with artworks.  
+- **Direct Connection between Artists and Collectors**: Provides a direct, intermediary-free connection between artists and collectors.  
+- **User-Friendly Interface**: The platform has a modern, user-friendly interface.  
+- **Secure & Transparent Transactions**: Transactions are secure and transparent due to the decentralized nature of the platform.
 
+  ## Key Features
+  - **Upcoming Marketplace Integration**: A marketplace feature will soon be integrated, enabling artists to sell their creations.
+  - 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
@@ -14,27 +27,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## Licensing
-
-[Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
