@@ -11,15 +11,17 @@ This project is a digital platform where artists can showcase their NFT artworks
 - **User-Friendly Interface**: The platform has a modern, user-friendly interface.  
 - **Secure & Transparent Transactions**: Transactions are secure and transparent due to the decentralized nature of the platform.
 
-  ## Key Features
-  - **Upcoming Marketplace Integration**: A marketplace feature will soon be integrated, enabling artists to sell their creations.
-  - 
-## Getting Started
-
-First, run the development server:
+## Future Scope
+- **Upcoming Marketplace Integration**: A marketplace feature will soon be integrated, enabling artists to sell their creations.
+ 
+## Project Setup
+First, run `npm install` to install the dependencies:
 
 ```bash
 npm install
+Second, run the development server:
+
+```bash
 npm run dev
 # or
 yarn dev
